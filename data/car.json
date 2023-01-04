@@ -1,0 +1,38 @@
+[
+  {
+    "vendor": "SomeCar",
+    "speed": 22,
+    "owner": {
+      "_id": "rncI4",
+      "fullname": "Denis Lit"
+    },
+    "_id": "BeNlH"
+  },
+  {
+    "vendor": "SomeCar",
+    "speed": 12345,
+    "owner": {
+      "_id": "rncI4",
+      "fullname": "Denis Lit"
+    },
+    "_id": "zNa8b"
+  },
+  {
+    "vendor": "SomeCar",
+    "speed": 12345,
+    "owner": {
+      "_id": "rncI4",
+      "fullname": "Denis Lit"
+    },
+    "_id": "lWbAo"
+  },
+  {
+    "vendor": "SomeCar",
+    "speed": 22,
+    "owner": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    },
+    "_id": "puSTD"
+  }
+]
